@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Ulrich%20Ngansi&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Web%20%7C%20Mobile%20%7C%20Cybersecurity%20%7C%20Networks&descAlignY=58&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Ulrich%20Ngansi&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Web%20%7C%20Cybersecurity%20%7C%20Networks&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://github.com/ngansi-ulrich">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;Securing+networks+from+the+shadows+%F0%9F%8C%99;Full-stack+%26+mobile+enthusiast+%F0%9F%93%B1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;Securing+networks+from+the+shadows+%F0%9F%8C%99;Full-stack+%26+enthusiast+%F0%9F%93%B1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 ```ts
 const ulrich = {
   location   : "🇨🇲 Cameroon",
-  role       : "Web · Mobile · Cybersecurity · Networks",
+  role       : "Web · Cybersecurity · Networks",
   languages  : ["French 🇫🇷", "English 🇬🇧"],
   currentWork: "Building a multi-agency stock app with WireGuard VPN 🔐",
   learning   : ["Server hardening", "VPN mesh networks", "Cloud infra"],
@@ -44,7 +44,7 @@ const ulrich = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend & Mobile**
+**Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
