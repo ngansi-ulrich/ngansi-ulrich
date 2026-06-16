@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/ngansi-ulrich">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BBuilding+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;Securing+networks+from+the+shadows+%F0%9F%8C%99;Full-stack+%26+enthusiast+%F0%9F%93%B1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BBuilding+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;Securing+networks+from+the+shadows+%F0%9F%8C%99;Full-stack+%26;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
