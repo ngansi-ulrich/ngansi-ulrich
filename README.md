@@ -9,7 +9,7 @@
 </a>
 
 <br/>
-[![GitHub followers](https://img.shields.io/github/followers/ngansi-ulrich?style=for-the-badge&logo=github&logoColor=white&color=0f3460&labelColor=0d1117)](https://github.com/ngansi-ulrich)
+[! [GitHub followers](https://img.shields.io/github/followers/ngansi-ulrich?style=for-the-badge&logo=github&logoColor=white&color=0f3460&labelColor=0d1117)](https://github.com/ngansi-ulrich)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=ngansi-ulrich&style=for-the-badge&color=0f3460&labelColor=0d1117&label=PROFILE+VIEWS)
 
